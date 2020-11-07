@@ -1,0 +1,17 @@
+{
+	"_id": 1,
+	"author": "Abraham Silberschatz",
+	"nationality": "Israelis / American",
+	"birth_year": 1952,
+	"fields": "Database Systems, Operating Systems",
+	"books": [
+		{
+			"book_id": 1,
+			"title": "Operating System Concepts"
+		},
+		{
+			"book_id": 2,
+			"title": "Database System Concepts"
+		}
+	]
+}

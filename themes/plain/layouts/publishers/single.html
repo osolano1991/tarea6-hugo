@@ -1,0 +1,47 @@
+{{ define "main" }}
+
+{{ $path := ( print "data/publishers/" .File.TranslationBaseName ".json") }}
+
+{{ $dataJ := getJSON $path }}
+
+<h4 style="margin-top: 15px">{{ $dataJ.publisher }}</h4>
+
+<h5>Publisher's details</h5>
+<form>
+  <div class="row">
+    <div class="six columns">
+       <label for="idInput">ID</label>
+       <input class="u-full-width" id="_id" type="text" value="{{ $dataJ._id }}" readonly/>
+    </div>
+    <div class="six columns">
+       <label for="countryInput">Country</label>
+       <input class="u-full-width" id="country" type="text" value="{{ $dataJ.country }}" readonly/>
+    </div>
+  </div>
+  <div class="row">
+    <div class="six columns">
+       <label for="foundedInput">Founded</label>
+       <input class="u-full-width" id="founded" type="text" value="{{ $dataJ.founded }}"  readonly/>
+    </div>
+    <div class="six columns">
+       <label for="genereInput">Genere</label>
+       <input class="u-full-width" id="genere" type="text" value="{{ $dataJ.genere  }}"  readonly/>
+    </div>
+  </div>
+</form>
+
+<h5>Books</h5>
+<div class="row">
+	{{ range $dataJ.books }}
+	<div class="four columns">
+		<figure>
+		 <a href="/books/book_{{ .book_id }}">
+	   <img width="100%" src="{{( print "/books/book_" .book_id ".jpg")}}">
+	  </a>
+		<figcaption style="text-align: center">{{ .title }}</figcaption>
+		</figure>
+	</div>
+	{{ end }}
+</div>
+
+{{ end }}

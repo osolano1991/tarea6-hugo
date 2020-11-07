@@ -1,0 +1,17 @@
+{
+	"_id": 3,
+	"author": "Alfred V. Aho",
+	"nationality": "Canadian",
+	"birth_year": 1941,
+	"fields": "Compilers, Data Structures",
+	"books": [
+		{
+			"book_id": 5,
+			"title": "Compilers: Principles, Techniques and Tools"
+		},
+		{
+			"book_id": 6,
+			"title": "Data Structures and Algorithms"
+		}
+	]
+}
