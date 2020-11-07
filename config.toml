@@ -1,0 +1,4 @@
+baseURL = "https://hugo-example2.netlify.app/"
+languageCode = "en-us"
+title = "Books Example Site"
+theme = "plain"
