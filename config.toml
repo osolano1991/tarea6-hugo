@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://tarea6-oscar-adan-hugo.netlify.app/"
 languageCode = "en-us"
 title = "Computer Science Books"
 theme= "plain"
