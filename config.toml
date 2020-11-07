@@ -1,5 +1,5 @@
 baseURL = "https://tarea6-oscar-adan-hugo.netlify.app/"
 languageCode = "en-us"
-title = "Computer Science Books"
+title = "Edificios más altos"
 theme= "plain"
 paginate= 3
