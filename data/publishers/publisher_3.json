@@ -1,0 +1,13 @@
+{
+	"_id": 3,
+	"publisher": "Addison Wesley",
+	"country": "United States",
+	"founded": 1942,
+	"genere": "Computer Science",
+	"books": [
+		{
+			"book_id": 5,
+			"title": "Compilers: Principles, Techniques, and Tools"
+		}
+	]
+}

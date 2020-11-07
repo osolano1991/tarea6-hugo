@@ -1,0 +1,21 @@
+{
+	"_id": 2,
+	"publisher": "Pearson Education",
+	"country": "United Kingdom",
+	"founded": 1844,
+	"genere": "Education",
+	"books": [
+		{
+			"book_id": 3,
+			"title": "Computer Networks"
+		},
+		{
+			"book_id": 4,
+			"title": "Modern Operating Systems"
+		},
+		{
+			"book_id": 6,
+			"title": "Data Structures and Algorithms"
+		}
+	]
+}

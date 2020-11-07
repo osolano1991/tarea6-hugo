@@ -1,0 +1,18 @@
+{{ define "main" }}
+<h4>{{ .Title }}</h4>
+<div class="row">
+{{ range (.Paginate .Pages).Pages }}
+<div class="four columns">
+	<figure>
+	 <a href="/publishers/{{ .File.TranslationBaseName }}">
+   <img width="100%" src="{{( print "/publishers/" .File.TranslationBaseName ".png")}}">
+  </a>
+	<figcaption style="text-align: center">{{ .Title }}</figcaption>
+</figure>
+</div>
+{{ end }}
+</div>
+
+{{ partial "pagination.html" . }}
+
+{{ end }}

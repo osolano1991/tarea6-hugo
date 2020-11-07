@@ -1,0 +1,17 @@
+{
+	"_id": 2,
+	"author": "Andrew S. Tanenbaum",
+	"nationality": "Dutch / American",
+	"birth_year": 1944,
+	"fields": "Distributed computing, Operating Systems",
+	"books": [
+		{
+			"book_id": 3,
+			"title": "Computer Networks"
+		},
+		{
+			"book_id": 4,
+			"title": "Modern Operating Systems"
+		}
+	]
+}
