@@ -11,12 +11,12 @@ Title: Home Page
   </div>
   <div class="four columns value-prop">
 		<a href="/authors/">
-    <img class="center" style="margin:20px" title="Ciudades" src="icons/authors.svg">
+    <img class="center" style="margin:20px; width:200px;" title="Ciudades" src="icons/ciudades.png">
 	  </a>
   </div>
   <div class="four columns value-prop">
 		<a href="/publishers/">
-    <img class="center" style="margin:20px" title="Arquitectos" src="icons/publishers.svg">
+    <img class="center" style="margin:20px; width:200px;" title="Arquitectos" src="icons/arquitectos.png">
 	 </a>
   </div>
 </div>
