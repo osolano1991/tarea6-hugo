@@ -8,13 +8,21 @@
 	 <div class="six columns">
      <h4 style="margin-top: 15px">{{ $dataJ.title }}</h4>
 		 <h5>Detalle de Edificios</h5>
-     <label for="alturaInput">Altura</label>
-     <input class="u-full-width" type="text" id="altura" value="{{ $dataJ.altura }}" readonly/>
+     <label for="idInput">ID</label>
+     <input class="u-full-width" type="text" id="_id" value="{{ $dataJ._id }}" readonly/>
    </div>
 	 <div class="three columns">
 		 <img width="100%" style="margin-left: 50%; width:200px; height:150px;" src="/edificios/{{.File.TranslationBaseName}}.jpg"/>
 	</div>
 </div>
+
+<div class="row">
+    <div class="six columns">
+       <label for="alturaInput">Altura</label>
+       <input class="u-full-width" type="text" id="altura" value="{{ $dataJ.altura }}" readonly/>
+    </div>
+    
+  </div>
 
   <div class="row">
     <div class="six columns">
