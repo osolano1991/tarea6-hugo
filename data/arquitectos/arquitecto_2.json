@@ -2,13 +2,9 @@
 	"_id": 2,
 	"arquitecto": "Gensler",
 	"pais": "Estados Unidos",
-	"nacimiento": 1965,
+	"nacimiento": "1965",
 	"ocupacion": "Arquitectura",
 	"edificios": [
-		{
-			"edificio_id": 3,
-			"title": "Makkah clock tower"
-		},
 		{
 			"edificio_id": 4,
 			"title": "Ping An Finance Center"
