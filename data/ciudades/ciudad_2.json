@@ -1,9 +1,9 @@
 {
 	"_id": 2,
 	"ciudad": "Andrew S. Tanenbaum",
-	"nationality": "Dutch / American",
-	"birth_year": 1944,
-	"fields": "Distributed computing, Operating Systems",
+	"poblacion": "Dutch / American",
+	"idioma": 1944,
+	"altitud": "Distributed computing, Operating Systems",
 	"edificios": [
 		{
 			"edificio_id": 3,

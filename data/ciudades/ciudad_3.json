@@ -1,9 +1,9 @@
 {
 	"_id": 3,
 	"ciudad": "Alfred V. Aho",
-	"nationality": "Canadian",
-	"birth_year": 1941,
-	"fields": "Compilers, Data Structures",
+	"poblacion": "Canadian",
+	"idioma": 1941,
+	"altitud": "Compilers, Data Structures",
 	"edificios": [
 		{
 			"edificio_id": 5,
