@@ -6,17 +6,17 @@ Title: Home Page
 <div class="row">
   <div class="four columns">
 		<a href="/books/">
-    <img class="center" style="margin:20px; width:200px;" title="Edificios" src="icons/edificios.png">
+    <img class="center" style="margin:20px; width:200px;" title="Edificios" src="icons/edificios.jpg">
 	  </a>
   </div>
   <div class="four columns value-prop">
 		<a href="/authors/">
-    <img class="center" style="margin:20px; width:200px;" title="Ciudades" src="icons/ciudades.png">
+    <img class="center" style="margin:20px; width:200px;" title="Ciudades" src="icons/ciudades.jpg">
 	  </a>
   </div>
   <div class="four columns value-prop">
 		<a href="/publishers/">
-    <img class="center" style="margin:20px; width:200px;" title="Arquitectos" src="icons/arquitectos.png">
+    <img class="center" style="margin:20px; width:200px;" title="Arquitectos" src="icons/arquitectos.jpg">
 	 </a>
   </div>
 </div>
