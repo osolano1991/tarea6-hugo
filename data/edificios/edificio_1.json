@@ -1,11 +1,11 @@
 	{
 		"_id": 1,
 		"title": "Burj Khalifa",
-		"pais": "Emiratos Árabes Unidos",
+		"pais": "Emiratos Arabes Unidos",
 		"altura": "829,8 m"​,
 		"superficie": "309 473 m²",
 		"plantas": 163,
-		"ciudad": "Dubái",
+		"ciudad": "Dubai",
 		"ciudad_id": 1,
 		"arquitecto": "Adrian Smith",
 		"arquitecto_id": 1
