@@ -1,6 +1,6 @@
 {
 	"_id": 1,
-	"ciudad": "Dubái",
+	"ciudad": "Dubai",
 	"nationality": "Israelis / American",
 	"birth_year": 1952,
 	"fields": "Database Systems, Operating Systems",
@@ -11,7 +11,7 @@
 		},
 		{
 			"edificio_id": 2,
-			"title": "Torre de Shanghái"
+			"title": "Torre de Shanghai"
 		}
 	]
 }

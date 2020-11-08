@@ -1,11 +1,11 @@
 {
 	"_id": 2,
-	"title": "Torre de Shanghái",
+	"title": "Torre de Shanghai",
 	"pais": "6th",
 	"altura": 2010,
 	"superficie": "ENGLISH",
 	"plantas": 1376,
-	"ciudad": "Dubái",
+	"ciudad": "Dubai",
 	"ciudad_id": 1,
 	"arquitecto": "John Wiley & Sons",
 	"arquitecto_id": 1
