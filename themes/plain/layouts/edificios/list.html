@@ -4,8 +4,8 @@
 {{ range (.Paginate .Pages).Pages }}
 <div class="four columns">
 	<figure>
-	 <a href="/books/{{ .File.TranslationBaseName }}">
-   <img width="100%" src="{{( print "/books/" .File.TranslationBaseName ".jpg")}}">
+	 <a href="/edificios/{{ .File.TranslationBaseName }}">
+   <img width="100%" src="{{( print "/edificios/" .File.TranslationBaseName ".jpg")}}">
   </a>
 	<figcaption style="text-align: center">{{ .Title }}</figcaption>
 </figure>

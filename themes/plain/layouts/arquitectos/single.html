@@ -1,12 +1,12 @@
 {{ define "main" }}
 
-{{ $path := ( print "data/publishers/" .File.TranslationBaseName ".json") }}
+{{ $path := ( print "data/arquitectos/" .File.TranslationBaseName ".json") }}
 
 {{ $dataJ := getJSON $path }}
 
-<h4 style="margin-top: 15px">{{ $dataJ.publisher }}</h4>
+<h4 style="margin-top: 15px">{{ $dataJ.arquitecto }}</h4>
 
-<h5>Publisher's details</h5>
+<h5>Detalles de Arquitecto</h5>
 <form>
   <div class="row">
     <div class="six columns">
@@ -30,13 +30,13 @@
   </div>
 </form>
 
-<h5>Books</h5>
+<h5>Edificios</h5>
 <div class="row">
-	{{ range $dataJ.books }}
+	{{ range $dataJ.edificios }}
 	<div class="four columns">
 		<figure>
-		 <a href="/books/book_{{ .book_id }}">
-	   <img width="100%" src="{{( print "/books/book_" .book_id ".jpg")}}">
+		 <a href="/edificios/edificio_{{ .edificio_id }}">
+	   <img width="100%" src="{{( print "/edificios/edificio_" .edificio_id ".jpg")}}">
 	  </a>
 		<figcaption style="text-align: center">{{ .title }}</figcaption>
 		</figure>

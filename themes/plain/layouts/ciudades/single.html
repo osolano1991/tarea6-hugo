@@ -1,18 +1,18 @@
 {{ define "main" }}
 
-{{ $path := ( print "data/authors/" .File.TranslationBaseName ".json") }}
+{{ $path := ( print "data/ciudades/" .File.TranslationBaseName ".json") }}
 
 {{ $dataJ := getJSON $path }}
 
 <div class="row">
 	 <div class="six columns">
-     <h4 style="margin-top: 15px">{{ $dataJ.author }}</h4>
-		 <h5>Author's details</h5>
+     <h4 style="margin-top: 15px">{{ $dataJ.ciudad }}</h4>
+		 <h5>Detalle de Ciudades</h5>
        <label for="nationalityInput">Nationality</label>
        <input class="u-full-width" id="nationality" type="text" value="{{ $dataJ.nationality }}" readonly/>
    </div>
 	 <div class="three columns">
-		 <img width="100%" style="margin-left: 50%;" src="/authors/{{.File.TranslationBaseName}}.jpg"/>
+		 <img width="100%" style="margin-left: 50%;" src="/ciudades/{{.File.TranslationBaseName}}.jpg"/>
 	</div>
 <div>
 
@@ -28,13 +28,13 @@
   </div>
 
 
-<h5>Books</h5>
+<h5>Edificios</h5>
 <div class="row">
-	{{ range $dataJ.books }}
+	{{ range $dataJ.edificios }}
 	<div class="four columns">
 		<figure>
-		 <a href="/books/book_{{ .book_id }}">
-	   <img width="100%" src="{{( print "/books/book_" .book_id ".jpg")}}">
+		 <a href="/edificios/edificio_{{ .edificio_id }}">
+	   <img width="100%" src="{{( print "/edificios/edificio_" .edificio_id ".jpg")}}">
 	  </a>
 		<figcaption style="text-align: center">{{ .title }}</figcaption>
 		</figure>
