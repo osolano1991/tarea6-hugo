@@ -8,8 +8,8 @@
 	 <div class="six columns">
      <h4 style="margin-top: 15px">{{ $dataJ.title }}</h4>
 		 <h5>Detalle de Edificios</h5>
-     <label for="copyrightInput">Copyright</label>
-     <input class="u-full-width" type="text" id="copyright" value="{{ $dataJ.copyright }}" readonly/>
+     <label for="alturaInput">Altura</label>
+     <input class="u-full-width" type="text" id="altura" value="{{ $dataJ.altura }}" readonly/>
    </div>
 	 <div class="three columns">
 		 <img width="100%" style="margin-left: 50%; width:200px; height:150px;" src="/edificios/{{.File.TranslationBaseName}}.jpg"/>
@@ -18,23 +18,23 @@
 
   <div class="row">
     <div class="six columns">
-       <label for="editionInput">Edition</label>
-       <input class="u-full-width" type="text" id="edition" value="{{ $dataJ.edition }}" readonly/>
+       <label for="paisInput">País</label>
+       <input class="u-full-width" type="text" id="pais" value="{{ $dataJ.pais }}" readonly/>
     </div>
     <div class="six columns">
-       <label for="languageInput">Language</label>
-       <input class="u-full-width" type="text" id="language" value="{{ $dataJ.language }}" readonly/>
+       <label for="superficieInput">Superficie</label>
+       <input class="u-full-width" type="text" id="superficie" value="{{ $dataJ.superficie }}" readonly/>
     </div>
   </div>
   <div class="row">
     <div class="six columns">
-       <label for=" authorInput">Ciudad</label>
+       <label for=" ciudadInput">Ciudad</label>
        <a href="/ciudades/ciudad_{{ $dataJ.ciudad_id }}">
          <input class="u-full-width" type="button" id=" ciudad" value="{{ $dataJ.ciudad }}" readonly/>
        </a>
     </div>
     <div class="six columns">
-       <label for="languageInput">Arquitecto</label>
+       <label for="arquitectoInput">Arquitecto</label>
        <a href="/arquitectos/arquitecto_{{ $dataJ.arquitecto_id }}">
          <input class="u-full-width" type="button" id="arquitecto" value="{{ $dataJ.arquitecto }}" readonly/>
        </a>
