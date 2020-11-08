@@ -1,12 +1,12 @@
 	{
 		"_id": 1,
-		"title": "Burj Khalifa",
-		"pais": "Emiratos Arabes Unidos",
-		"altura": "829 m"​,
-		"superficie": "309 473",
-		"plantas": 163,
-		"ciudad": "Dubai",
+		"title": "Operating System Concepts",
+		"edition": "9th",
+		"copyright": 2012,
+		"language": "ENGLISH",
+		"pages": 976,
+		"ciudad": "Abraham Silberschatz",
 		"ciudad_id": 1,
-		"arquitecto": "Adrian Smith",
+		"arquitecto": "John Wiley & Sons",
 		"arquitecto_id": 1
 	}
