@@ -6,7 +6,7 @@ Title: Home Page
 <div class="row">
   <div class="four columns">
 		<a href="/books/">
-    <img class="center" style="margin:20px; width:200px;" title="Edificios" src="icons/edificios.jpg">
+    <img class="center" style="margin:20px; width:20px;" title="Edificios" src="icons/edificios.jpg">
 	  </a>
   </div>
   <div class="four columns value-prop">
