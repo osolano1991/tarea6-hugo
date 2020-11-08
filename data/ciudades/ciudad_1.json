@@ -1,9 +1,9 @@
 {
 	"_id": 1,
 	"ciudad": "Dubai",
-	"poblacion": "Israelis / American",
-	"idioma": 1952,
-	"altitud": "Database Systems, Operating Systems",
+	"poblacion": "3 355 900",
+	"idioma": "Arabe",
+	"altitud": "11 m s. n. m.",
 	"edificios": [
 		{
 			"edificio_id": 1,
@@ -12,6 +12,10 @@
 		{
 			"edificio_id": 2,
 			"title": "Torre de Shanghai"
+		},
+		{
+			"edificio_id": 10,
+			"title": "China Zun Tower"
 		}
 	]
 }

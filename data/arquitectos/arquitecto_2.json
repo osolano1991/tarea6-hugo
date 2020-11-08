@@ -1,9 +1,9 @@
 {
 	"_id": 2,
-	"arquitecto": "Pearson Education",
-	"country": "United Kingdom",
-	"founded": 1844,
-	"genere": "Education",
+	"arquitecto": "Gensler",
+	"pais": "Estados Unidos",
+	"nacimiento": 1965,
+	"ocupacion": "Arquitectura",
 	"edificios": [
 		{
 			"edificio_id": 3,
@@ -16,6 +16,10 @@
 		{
 			"edificio_id": 6,
 			"title": "One World Trade Center"
+		},
+		{
+			"edificio_id": 7
+			"title": "Chow Tai Fook Centre"
 		}
 	]
 }

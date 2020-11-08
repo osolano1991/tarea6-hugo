@@ -1,17 +1,17 @@
 	{
 		"_id": 1,
 		"arquitecto": "Adrian Smith",
-		"country": "United States",
-		"founded": 1807,
-		"genere": "Academic",
+		"pais": "Estados Unidos",
+		"nacimiento": 1944,
+		"ocupacion": "Arquitecto",
 		"edificios": [
 			{
 				"edificio_id": 1,
 				"title": "Burj Khalifa"
 			},
 			{
-				"edificio_id": 2,
-				"title": "Torre de Shanghai"
+				"edificio_id": 9,
+				"title": "CTF Finance Centre"
 			}
 		]
 	}

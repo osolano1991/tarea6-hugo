@@ -1,9 +1,9 @@
 {
 	"_id": 2,
-	"ciudad": "Andrew S. Tanenbaum",
-	"poblacion": "Dutch / American",
-	"idioma": 1944,
-	"altitud": "Distributed computing, Operating Systems",
+	"ciudad": "Shanghai",
+	"poblacion": "23 019 200 ",
+	"idioma": "Chino",
+	"altitud": "4​ m s. n. m.",
 	"edificios": [
 		{
 			"edificio_id": 3,
@@ -12,6 +12,10 @@
 		{
 			"edificio_id": 4,
 			"title": "Ping An Finance Center"
+		},
+		{
+			"edificio_id": 8,
+			"title": "Wuhan Center Tower"
 		}
 	]
 }

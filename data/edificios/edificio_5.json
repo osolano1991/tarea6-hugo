@@ -1,12 +1,12 @@
 {
 	"_id": 5,
 	"title": "Lotte World Tower",
-	"pais": "2nd",
-	"altura": 2006,
-	"superficie": "ENGLISH",
-	"plantas": 1040,
-	"ciudad": "Alfed V. Aho",
-	"ciudad_id": 3,
+	"pais": "Corea del Sur",
+	"altura": "554.6 m",
+	"superficie": "304 081 m",
+	"plantas": 123,
+	"ciudad": "Seul",
+	"ciudad_id": 5,
 	"arquitecto": "Addison Wesley",
 	"arquitecto_id": 3
 }

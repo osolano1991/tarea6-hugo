@@ -1,12 +1,12 @@
 {
 	"_id": 3,
 	"title": "Makkah clock tower",
-	"pais": "5th",
-	"altura": 2010,
+	"pais": "Arabia Saudita",
+	"altura": "494 m",
 	"superficie": "ENGLISH",
-	"plantas": 960,
-	"ciudad": "Andrew S. Tanenbaum",
-	"ciudad_id": 2,
-	"arquitecto": "Pearson Education",
-	"arquitecto_id": 2
+	"plantas": 120,
+	"ciudad": "La Meca",
+	"ciudad_id": 3,
+	"arquitecto": "Dar Al-Handasah",
+	"arquitecto_id": 3
 }

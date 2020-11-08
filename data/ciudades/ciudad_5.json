@@ -1,0 +1,25 @@
+{
+	"_id": 5,
+	"ciudad": "Seul",
+	"poblacion": "10 581 728 ",
+	"idioma": "Coreano",
+	"altitud": "10 m s. n. m.",
+	"edificios": [
+		{
+			"edificio_id": 4,
+			"title": "Ping An Finance Center"
+		},
+		{
+			"edificio_id": 6,
+			"title": "One World Trade Center"
+		},
+		{
+			"edificio_id": 3,
+			"title": "Dar Al-Handasah"
+		},
+		{
+			"edificio_id": 5,
+			"title": "Lotte World Tower"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"_id": 4,
+	"ciudad": "Shenzhen",
+	"poblacion": "11908400 ",
+	"idioma": "Chino",
+	"altitud": "5 m s. n. m",
+	"edificios": [
+		{
+			"edificio_id": 4,
+			"title": "Ping An Finance Center"
+		},
+		{
+			"edificio_id": 6,
+			"title": "One World Trade Center"
+		}
+		,
+		{
+			"edificio_id": 3,
+			"title": "Dar Al-Handasah"
+		}
+	]
+}

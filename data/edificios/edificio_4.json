@@ -1,12 +1,12 @@
 {
 	"_id": 4,
 	"title": "Ping An Finance Center",
-	"pais": "4th",
-	"altura": 2014,
-	"superficie": "ENGLISH",
-	"plantas": 1136,
-	"ciudad": "Andrew S. Tanenbaum",
-	"ciudad_id": 2,
-	"arquitecto": "Pearson Education",
-	"arquitecto_id": 2
+	"pais": "China",
+	"altura": "599 m",
+	"superficie": "459.525 m",
+	"plantas": 115,
+	"ciudad": "Shenzhen",
+	"ciudad_id": 4,
+	"arquitecto": "Adrian Smith",
+	"arquitecto_id": 1
 }
