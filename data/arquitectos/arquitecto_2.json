@@ -7,15 +7,15 @@
 	"edificios": [
 		{
 			"edificio_id": 3,
-			"title": "Computer Networks"
+			"title": "Makkah clock tower"
 		},
 		{
 			"edificio_id": 4,
-			"title": "Modern Operating Systems"
+			"title": "Ping An Finance Center"
 		},
 		{
 			"edificio_id": 6,
-			"title": "Data Structures and Algorithms"
+			"title": "One World Trade Center"
 		}
 	]
 }

@@ -7,11 +7,11 @@
 	"edificios": [
 		{
 			"edificio_id": 1,
-			"title": "Operating System Concepts"
+			"title": "Burj Khalifa"
 		},
 		{
 			"edificio_id": 2,
-			"title": "Database System Concepts"
+			"title": "Torre de Shanghái"
 		}
 	]
 }
