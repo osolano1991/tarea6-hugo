@@ -5,8 +5,8 @@
 		"copyright": 2012,
 		"language": "ENGLISH",
 		"pages": 976,
-		"author": "Abraham Silberschatz",
-		"author_id": 1,
-		"publisher": "John Wiley & Sons",
-		"publisher_id": 1
+		"ciudad": "Abraham Silberschatz",
+		"ciudad_id": 1,
+		"arquitecto": "John Wiley & Sons",
+		"arquitecto_id": 1
 	}

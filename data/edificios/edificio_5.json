@@ -5,8 +5,8 @@
 	"copyright": 2006,
 	"language": "ENGLISH",
 	"pages": 1040,
-	"author": "Alfed V. Aho",
-	"author_id": 3,
-	"publisher": "Addison Wesley",
-	"publisher_id": 3
+	"ciudad": "Alfed V. Aho",
+	"ciudad_id": 3,
+	"arquitecto": "Addison Wesley",
+	"arquitecto_id": 3
 }

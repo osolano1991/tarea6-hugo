@@ -1,16 +1,16 @@
 	{
 		"_id": 1,
-		"publisher": "John Wiley & Sons",
+		"arquitecto": "John Wiley & Sons",
 		"country": "United States",
 		"founded": 1807,
 		"genere": "Academic",
-		"books": [
+		"edificios": [
 			{
-				"book_id": 1,
+				"edificio_id": 1,
 				"title": "Operating System Concepts"
 			},
 			{
-				"book_id": 2,
+				"edificio_id": 2,
 				"title": "Database System Concepts"
 			}
 		]

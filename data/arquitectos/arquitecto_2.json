@@ -1,20 +1,20 @@
 {
 	"_id": 2,
-	"publisher": "Pearson Education",
+	"arquitecto": "Pearson Education",
 	"country": "United Kingdom",
 	"founded": 1844,
 	"genere": "Education",
-	"books": [
+	"edificios": [
 		{
-			"book_id": 3,
+			"edificio_id": 3,
 			"title": "Computer Networks"
 		},
 		{
-			"book_id": 4,
+			"edificio_id": 4,
 			"title": "Modern Operating Systems"
 		},
 		{
-			"book_id": 6,
+			"edificio_id": 6,
 			"title": "Data Structures and Algorithms"
 		}
 	]

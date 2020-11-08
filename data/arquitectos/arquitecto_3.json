@@ -1,12 +1,12 @@
 {
 	"_id": 3,
-	"publisher": "Addison Wesley",
+	"arquitecto": "Addison Wesley",
 	"country": "United States",
 	"founded": 1942,
 	"genere": "Computer Science",
-	"books": [
+	"edificios": [
 		{
-			"book_id": 5,
+			"edificio_id": 5,
 			"title": "Compilers: Principles, Techniques, and Tools"
 		}
 	]

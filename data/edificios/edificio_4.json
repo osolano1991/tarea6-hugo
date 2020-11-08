@@ -5,8 +5,8 @@
 	"copyright": 2014,
 	"language": "ENGLISH",
 	"pages": 1136,
-	"author": "Andrew S. Tanenbaum",
-	"author_id": 2,
-	"publisher": "Pearson Education",
-	"publisher_id": 2
+	"ciudad": "Andrew S. Tanenbaum",
+	"ciudad_id": 2,
+	"arquitecto": "Pearson Education",
+	"arquitecto_id": 2
 }
